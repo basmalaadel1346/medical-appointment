@@ -76,5 +76,5 @@ Doctor doctors[MAX_DOCTORS] = {
 
 ```
 
-👀This code defines and initializes an array of doctors — specifically, an array named doctors, with a size of MAX_DOCTORS.
+👀This code defines and initializes an array of doctors — specifically, an array named doctors, with a size of MAX_DOCTORS. |    
 هذا الكود يقوم بتعريف وتهيئة array من الأطباء 
